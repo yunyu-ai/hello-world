@@ -1,2 +1,2 @@
 # hello-world
-student-test
+study-test
